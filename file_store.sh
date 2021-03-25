@@ -1,0 +1,1 @@
+nohup mv -f /volumeUSB1/usbshare/* /volume2/video &
