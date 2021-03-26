@@ -6,7 +6,7 @@ deployed on G Nas
 
 published trought VPN on Google CP
 
-public version accessible on http://sacconazzo.altervista.org
+public version accessible on http://sacconazzo.altervista.org -> System Monitor
 
 ### Info
 
