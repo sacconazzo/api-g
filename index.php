@@ -39,7 +39,7 @@
             echo $output;
             break;
         case 'commands':
-			$fn = "ssh -i /volume2/web/api/id_rsa root@scn arp -a 2>&1";
+			$fn = "ssh -i /volume2/web/api/id_rsa pi@pi -p 8222 uname -a 2>&1";
 			//$fn = "chmod 600 id_rsa 2>&1";
             $output = shell_exec($fn);
             echo $output;
